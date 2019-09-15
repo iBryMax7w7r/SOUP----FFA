@@ -1,0 +1,5 @@
+name: Core_3.0
+main: Core\Changer
+api: [3.2.3]
+version: 3.0
+author: ImBryMax7u7
